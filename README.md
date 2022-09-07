@@ -1,5 +1,5 @@
 # Tela Login
-Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de PHP e front end.
+Ola, Meu nome é Eduardo e esse foi mais um projeto para meu aprendizado de React Native.
 
 <div align="center">
   <a href="https://github.com/eduardofranco572">
